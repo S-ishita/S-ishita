@@ -12,8 +12,8 @@
 <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
 <img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
    </div>
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=s-ishita&label=Profile%20views&color=0e75b6&style=flat" alt="s-ishita" /> </p>
-
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=s-ishita&label=Profile%20views&color=0e75b6&style=flat" alt="s-ishita" /> 
+<a href="https://api.gitsponsors.com/api/badge/link?p=jqQHkH99oRKd87WhjIkR5DVsKsBvVhRiY0bNVDjlAwNiKH8WhuW7qsUykOzWMUzT"><img src="https://api.gitsponsors.com/api/badge/img?id=623387445" height="20"></a></p>
    <br>
    <div align="center">
   
